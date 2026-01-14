@@ -10,9 +10,10 @@
 - [X] The Journalist
 - [X] The ShopKeeper
 - [X] The Banker
+- [X] The Florist
 ## Weapons
 - [ ] Kitchen Knife
-- [ ] Crystal Vase
+- [X] Crystal Vase
 - [X] Brass Bell
 - [X] Walking Stick
 - [X] Crystal Vase
@@ -20,7 +21,9 @@
 - [X] Old Key found
 - [X] Silver Watch
 - [X] Paint brush
-
+- [X] Glass bottle
+- [X] Garden Shears
+- [X] Magnifying Glass
 ## Locations visitied and notes
 - [X] Residential Area: Gardener there, no objects
 	- [X] Cottage: No one there, neither objects
@@ -43,7 +46,7 @@
 		- [X] Kitchen: Clue found (Head to the art room in the school), no one was there, Crystal Vase found
 
 	- [X] Classrooms: No one there, neither objects.
-		- [X] Art room: Investigation conclusion found (This one is the murderer room!!), no one is there, neither objects
+		- [X] Art room: Investigation conclusion found (!!This one is the murderer room!!), no one is there, neither objects
 		- [X] Science lab: No one there, neither objects
 		- [X] Gymnasium: The Shopkeeper was there, no objects found
 
@@ -56,9 +59,16 @@
 	- [X] Market: No one there, paint brush found
 		- [X] Aisles: No one there, neither objects
 		- [X] Stockroom: No one there, neither objects
-
+- [X] Town Hall: The teacher is there, no objects found
+	- [X] Offices: No one there, neither objects
+		- [X] Meeting rooms: No one there, glass bottle found
+			- [X] Council chambers: The Florist is there, garden shears found
+		- [X] Records: No one there, neither objects
+			- [X] Archives: No one there, Magnifying Glass found
 
 
 
 
 Location of the crime is still unknown - the room must have been empty when it happened...
+
+Firt Hypothesis: The Chef commited the crime with a Kitchen Knife at the art room
