@@ -9,16 +9,19 @@
 - [X] The Carpenter
 - [X] The Journalist
 - [X] The ShopKeeper
+- [X] The Banker
 ## Weapons
 - [ ] Kitchen Knife
 - [ ] Crystal Vase
-- [ ] Brass Bell
+- [X] Brass Bell
 - [X] Walking Stick
-- [X] Grass Bell
 - [X] Crystal Vase
-## Notes
+- [X] Brass Candlestick
+- [X] Old Key found
+- [X] Silver Watch
+- [X] Paint brush
 
-## Locations visitied
+## Locations visitied and notes
 - [X] Residential Area: Gardener there, no objects
 	- [X] Cottage: No one there, neither objects
 		- [X] Cellar: No one there, neither objects
@@ -43,6 +46,17 @@
 		- [X] Art room: Investigation conclusion found (This one is the murderer room!!), no one is there, neither objects
 		- [X] Science lab: No one there, neither objects
 		- [X] Gymnasium: The Shopkeeper was there, no objects found
+
+
+- [X] Shops: No one there, Brass Candlestick found
+	- [X] Bakery: No one there, old key found
+		- [X] Kitchen: The banker is there, no objects found
+		- [X] Storage: No one there, neither objects
+	- [X] Cafe: No one there, Silver Watch found
+	- [X] Market: No one there, paint brush found
+		- [X] Aisles: No one there, neither objects
+		- [X] Stockroom: No one there, neither objects
+
 
 
 
