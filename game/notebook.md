@@ -72,3 +72,4 @@
 Location of the crime is still unknown - the room must have been empty when it happened...
 
 Firt Hypothesis: The Chef commited the crime with a Kitchen Knife at the art room
+Hypthotesis confirmed: It was The Chef with the Kitchen Knife in the Art Room

@@ -114,3 +114,8 @@ cat clue.txt   # Read the next clue
 - Keep track of which suspects and weapons you've crossed off
 
 Happy investigating, Detective! The town is counting on you to solve this mystery!
+
+## Final Conclusion
+
+**The Chef** commited the crime with a **Kitchen Knife** at the **Art Room** 
+
