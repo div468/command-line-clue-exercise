@@ -1,0 +1,5 @@
+Investigation Update:
+
+The dust on the floor shows a clear path heading to the kitchen.
+
+Remember: Use 'cd "kitchen"' to follow this lead.

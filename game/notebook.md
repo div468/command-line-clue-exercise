@@ -5,6 +5,8 @@
 - [ ] The Chef
 - [ ] The Police Officer
 - [X] Gardener
+- [X] The Blacksmith
+- [X] The Carpenter
 ## Weapons
 - [ ] Kitchen Knife
 - [ ] Crystal Vase
