@@ -3,17 +3,19 @@
 ## Suspects
 - [X] The Tailor
 - [ ] The Chef
-- [ ] The Police Officer
+- [X] The Police Officer
 - [X] Gardener
 - [X] The Blacksmith
 - [X] The Carpenter
 - [X] The Journalist
+- [X] The ShopKeeper
 ## Weapons
 - [ ] Kitchen Knife
 - [ ] Crystal Vase
 - [ ] Brass Bell
 - [X] Walking Stick
 - [X] Grass Bell
+- [X] Crystal Vase
 ## Notes
 
 ## Locations visitied
@@ -33,7 +35,16 @@
 	- [X] Pond: No one there, except there is a walking stick
 		- [X] Dock: No one there, neither objects
 
+- [X] School: No one there, neither objects
+	- [X] Cafeteria: Clue found (dust trail leading to the kitchen), The Police Officer was there, no objects found.
+		- [X] Kitchen: Clue found (Head to the art room in the school), no one was there, Crystal Vase found
 
-Use this space to record your findings and deductions...*
+	- [X] Classrooms: No one there, neither objects.
+		- [X] Art room: Investigation conclusion found (This one is the murderer room!!), no one is there, neither objects
+		- [X] Science lab: No one there, neither objects
+		- [X] Gymnasium: The Shopkeeper was there, no objects found
+
+
+
 
 Location of the crime is still unknown - the room must have been empty when it happened...
